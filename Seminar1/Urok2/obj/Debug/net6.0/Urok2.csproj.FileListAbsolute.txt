@@ -1,0 +1,15 @@
+D:\Учеба\Seminar C#\Seminar1\Urok2\bin\Debug\net6.0\Urok2.exe
+D:\Учеба\Seminar C#\Seminar1\Urok2\bin\Debug\net6.0\Urok2.deps.json
+D:\Учеба\Seminar C#\Seminar1\Urok2\bin\Debug\net6.0\Urok2.runtimeconfig.json
+D:\Учеба\Seminar C#\Seminar1\Urok2\bin\Debug\net6.0\Urok2.dll
+D:\Учеба\Seminar C#\Seminar1\Urok2\bin\Debug\net6.0\Urok2.pdb
+D:\Учеба\Seminar C#\Seminar1\Urok2\obj\Debug\net6.0\Urok2.csproj.AssemblyReference.cache
+D:\Учеба\Seminar C#\Seminar1\Urok2\obj\Debug\net6.0\Urok2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Seminar C#\Seminar1\Urok2\obj\Debug\net6.0\Urok2.AssemblyInfoInputs.cache
+D:\Учеба\Seminar C#\Seminar1\Urok2\obj\Debug\net6.0\Urok2.AssemblyInfo.cs
+D:\Учеба\Seminar C#\Seminar1\Urok2\obj\Debug\net6.0\Urok2.csproj.CoreCompileInputs.cache
+D:\Учеба\Seminar C#\Seminar1\Urok2\obj\Debug\net6.0\Urok2.dll
+D:\Учеба\Seminar C#\Seminar1\Urok2\obj\Debug\net6.0\refint\Urok2.dll
+D:\Учеба\Seminar C#\Seminar1\Urok2\obj\Debug\net6.0\Urok2.pdb
+D:\Учеба\Seminar C#\Seminar1\Urok2\obj\Debug\net6.0\Urok2.genruntimeconfig.cache
+D:\Учеба\Seminar C#\Seminar1\Urok2\obj\Debug\net6.0\ref\Urok2.dll
