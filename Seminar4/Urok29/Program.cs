@@ -6,7 +6,7 @@
 
 
 Console.Clear();
-int[] array = GetRandomArray(8,0,250);
+int[] array = GetRandomArray(8,10,250);
 Console.WriteLine($"[{String.Join(",", array)}]");
 
 
