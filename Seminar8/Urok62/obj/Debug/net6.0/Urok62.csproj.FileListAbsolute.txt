@@ -1,0 +1,15 @@
+D:\Учеба\Seminar C#\Seminar8\Urok62\bin\Debug\net6.0\Urok62.exe
+D:\Учеба\Seminar C#\Seminar8\Urok62\bin\Debug\net6.0\Urok62.deps.json
+D:\Учеба\Seminar C#\Seminar8\Urok62\bin\Debug\net6.0\Urok62.runtimeconfig.json
+D:\Учеба\Seminar C#\Seminar8\Urok62\bin\Debug\net6.0\Urok62.dll
+D:\Учеба\Seminar C#\Seminar8\Urok62\bin\Debug\net6.0\Urok62.pdb
+D:\Учеба\Seminar C#\Seminar8\Urok62\obj\Debug\net6.0\Urok62.csproj.AssemblyReference.cache
+D:\Учеба\Seminar C#\Seminar8\Urok62\obj\Debug\net6.0\Urok62.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Seminar C#\Seminar8\Urok62\obj\Debug\net6.0\Urok62.AssemblyInfoInputs.cache
+D:\Учеба\Seminar C#\Seminar8\Urok62\obj\Debug\net6.0\Urok62.AssemblyInfo.cs
+D:\Учеба\Seminar C#\Seminar8\Urok62\obj\Debug\net6.0\Urok62.csproj.CoreCompileInputs.cache
+D:\Учеба\Seminar C#\Seminar8\Urok62\obj\Debug\net6.0\Urok62.dll
+D:\Учеба\Seminar C#\Seminar8\Urok62\obj\Debug\net6.0\refint\Urok62.dll
+D:\Учеба\Seminar C#\Seminar8\Urok62\obj\Debug\net6.0\Urok62.pdb
+D:\Учеба\Seminar C#\Seminar8\Urok62\obj\Debug\net6.0\Urok62.genruntimeconfig.cache
+D:\Учеба\Seminar C#\Seminar8\Urok62\obj\Debug\net6.0\ref\Urok62.dll
